@@ -1,0 +1,6 @@
+# API KEY
+.vscode
+key.js
+
+.env
+node_modules/
