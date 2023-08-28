@@ -4,3 +4,6 @@ key.js
 
 .env
 node_modules/
+
+.parcel-cache
+dist
